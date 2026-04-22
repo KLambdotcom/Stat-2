@@ -8,14 +8,12 @@ Ce programme a été pensé pour les épreuves de **Statistiques 2**.
 
 ## Fonctionnalités Principales (La V21)
 
-* **Générateur d'Hypothèses Formelles :** Avant chaque calcul, le programme affiche les hypothèses $H_0$ et $H_1$ avec la notation académique attendue par les correcteurs (utilisation des $\mu$ et des $\rho$).
-*  **Assistant de Rédaction :** Fini les conclusions brouillonnes. Le programme génère le bloc de texte exact à recopier (ex: `F(3,16) = 13.89 >= F_seuil => REJET H0`).
 * Un menu entier est dédié aux questions de cours classiques :
   * Arbre de décision pour choisir le bon test.
   * Liste des conditions d'application à citer.
   * Interprétation des p-values sous le logiciel R (Shapiro, Bartlett).
   * Formules et propriétés magiques des résidus.
-
+  * 
 ---
 
 ##  Tests Statistiques Inclus
@@ -34,7 +32,7 @@ Le menu principal (touches 1 à 8) couvre 100% de notre programme de TD et d'ann
 
 ## Comment l'installer sur sa NumWorks ?
 
-Pas besoin de savoir coder pour l'installer, suivez juste ces 5 étapes :
+Pour l'installer, suivez juste ces 5 étapes :
 
 1. Branchez votre calculatrice à votre ordinateur avec un câble USB.
 2. Allez sur le site officiel de NumWorks : [my.numworks.com/scripts](https://my.numworks.com/scripts). *(Connectez-vous ou créez un compte gratuit).*
