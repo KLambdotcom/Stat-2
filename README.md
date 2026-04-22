@@ -2,7 +2,7 @@
 
 Bienvenue sur le dépôt de **Stat-2**, un script Python spécialement conçu pour la calculatrice NumWorks. 
 
-Ce programme a été pensé comme un véritable "assistant d'examen" pour les épreuves de **Statistiques 2**.
+Ce programme a été pensé pour les épreuves de **Statistiques 2**.
 
 ---
 
