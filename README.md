@@ -10,7 +10,7 @@ Ce programme a été pensé pour les épreuves de **Statistiques 2**.
 
 * **Générateur d'Hypothèses Formelles :** Avant chaque calcul, le programme affiche les hypothèses $H_0$ et $H_1$ avec la notation académique attendue par les correcteurs (utilisation des $\mu$ et des $\rho$).
 *  **Assistant de Rédaction :** Fini les conclusions brouillonnes. Le programme génère le bloc de texte exact à recopier (ex: `F(3,16) = 13.89 >= F_seuil => REJET H0`).
-   **Anti-sèche Théorique Intégrée :** Un menu entier est dédié aux questions de cours classiques :
+* Un menu entier est dédié aux questions de cours classiques :
   * Arbre de décision pour choisir le bon test.
   * Liste des conditions d'application à citer.
   * Interprétation des p-values sous le logiciel R (Shapiro, Bartlett).
